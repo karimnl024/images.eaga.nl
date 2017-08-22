@@ -1,0 +1,22 @@
+
+SQLSTATE[HY000] [2002] Permission denied -> at line 21 at 22-08-2017 12:17:01
+SQLSTATE[HY000] [2002] Permission denied -> at line 21 at 22-08-2017 12:17:02
+SQLSTATE[HY000] [2002] Permission denied -> at line 21 at 22-08-2017 12:17:02
+SQLSTATE[HY000] [2002] Permission denied -> at line 21 at 22-08-2017 12:17:03
+SQLSTATE[HY000] [2002] Permission denied -> at line 21 at 22-08-2017 12:17:03
+SQLSTATE[HY000] [2002] Permission denied -> at line 21 at 22-08-2017 13:47:23
+SQLSTATE[HY000] [2002] Permission denied -> at line 21 at 22-08-2017 13:47:23
+SQLSTATE[HY000] [2002] Permission denied -> at line 21 at 22-08-2017 13:48:56
+SQLSTATE[HY000] [2002] Permission denied -> at line 21 at 22-08-2017 13:49:05
+SQLSTATE[HY000] [2002] Permission denied -> at line 21 at 22-08-2017 13:49:05
+SQLSTATE[HY000] [2002] Permission denied -> at line 21 at 22-08-2017 13:49:13
+SQLSTATE[HY000] [2002] Permission denied -> at line 21 at 22-08-2017 13:49:14
+SQLSTATE[HY000] [2002] Permission denied -> at line 21 at 22-08-2017 13:49:49
+SQLSTATE[HY000] [2002] Permission denied -> at line 21 at 22-08-2017 13:49:50
+SQLSTATE[HY000] [2002] Permission denied -> at line 21 at 22-08-2017 13:49:50
+SQLSTATE[HY000] [2002] Permission denied -> at line 21 at 22-08-2017 13:49:50
+Directory does not exist. (test) -> at line 14 at 22-08-2017 13:55:48
+Directory does not exist. () -> at line 26 at 22-08-2017 14:03:16
+Directory does not exist. () -> at line 44 at 22-08-2017 17:21:00
+SQLSTATE[HY000] [1045] Access denied for user 'admin_test'@'localhost' (using password: YES) -> at line 21 at 22-08-2017 17:30:03
+SQLSTATE[HY000] [1045] Access denied for user 'admin_test'@'localhost' (using password: YES) -> at line 21 at 22-08-2017 17:33:34
